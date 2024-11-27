@@ -1,4 +1,4 @@
-![Descrição do GIF](https://github.com/HeuerBcH/HeuerBcH/edit/main/videogif.gif)
+![Descrição da Imagem](https://raw.githubusercontent.com/HeuerBcH/HeuerBcH/main/imagem1.png)
 
 # Hi, I’m Bernardo 👋😄
 
