@@ -1,4 +1,4 @@
-![Descrição da Imagem](https://raw.githubusercontent.com/HeuerBcH/HeuerBcH/main/im1.png)
+
 
 # Hi, I’m Bernardo 👋😄
 
