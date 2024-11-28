@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/GitHub-092E20?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## My Stats
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HeuerBcH&show_icons=true&theme=merko" />
 </a>
@@ -54,6 +54,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeuerBcH&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HeuerBcH&bg_color=00000000&color=093E61&title_color=093E61&line=0162EB&point=093E61&hide_border=true" /></a>
 
  
 
