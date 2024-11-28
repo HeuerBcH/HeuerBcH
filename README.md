@@ -1,9 +1,7 @@
 # About me 💬
-<br>
 <p><strong>Student of the third period of Computer Science at CESAR School.</strong></p>
 <p><strong>Passionate about data science, AI, machine learning, DevOps, software development, cybersecurity and more</strong></p>
 <p><strong>Addicted to: Music, Gym, Martial-arts, Socializing</strong></p>
-<br>
 
 ## 👥 Find me in
 <p align="left">
