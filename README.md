@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/GitHub-092E20?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## Stats
+## 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HeuerBcH&show_icons=true&theme=merko" />
 </a>
