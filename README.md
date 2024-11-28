@@ -1,14 +1,14 @@
-# About me 💬
-<p><strong>Student of the third period of Computer Science at CESAR School.</strong></p>
-<p><strong>Passionate about data science, AI, machine learning, DevOps, software development, cybersecurity and more</strong></p>
-<p><strong>Addicted to: Music, Gym, Martial-arts, Socializing</strong></p>
-
 ## 👥 Find me in
 <p align="left">
 <a href="https://www.linkedin.com/in/bernardo-heuer-a24921288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/ib3w9qi9e3apm5fu9igvxn9h7?si=5f910928defd428a" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify Bernardo" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send/?phone=5581989827306&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Bernardo" height="30" width="40" /></a>
 </p>
+
+# About me 💬
+<p><strong>Student of the third period of Computer Science at CESAR School.</strong></p>
+<p><strong>Passionate about data science, AI, machine learning, DevOps, software development, cybersecurity and more</strong></p>
+<p><strong>Addicted to: Music, Gym, Martial-arts, Socializing</strong></p>
 
 ## 📚 Currently Improving
 <p align="left">
@@ -42,14 +42,15 @@
 
 ## 📊 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HeuerBcH&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeuerBcH&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HeuerBcH&show_icons=true&theme=merko" />
+</a>
+
+<br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=HeuerBcH&bg_color=00000000&color=093E61&title_color=093E61&line=0162EB&point=093E61&hide_border=true" /></a>
-
  
 
 
