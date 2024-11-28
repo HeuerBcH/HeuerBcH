@@ -1,7 +1,3 @@
-![Descrição da Imagem](https://raw.githubusercontent.com/HeuerBcH/HeuerBcH/main/imge1.png)
-
-
-
 # About me 💬
 <br>
 <p><strong>Student of the third period of Computer Science at CESAR School.</strong></p>
