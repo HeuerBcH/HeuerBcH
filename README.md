@@ -6,7 +6,7 @@
 </p>
 
 # About me 💬
-<p><strong>Student of the third period of Computer Science at CESAR School.</strong></p>
+<p><strong>Student of the fourth period of Computer Science at CESAR School.</strong></p>
 <p><strong>Passionate about data science, AI, machine learning, DevOps, software development, cybersecurity and more</strong></p>
 
 ## 📚 Currently Improving
