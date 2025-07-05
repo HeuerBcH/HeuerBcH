@@ -6,15 +6,14 @@
 </p>
 
 # About me 💬
-<p><strong>Student of the fourth period of Computer Science at CESAR School.</strong></p>
-<p><strong>Passionate about data science, AI, machine learning, DevOps, software development, cybersecurity and more</strong></p>
+<p><strong>Student of Computer Science at CESAR School.</strong></p>
+<p><strong>Passionate about Data Science, AI, DevOps, Software Development, Cybersecurity and more</strong></p>
 
 ## 📚 Currently Improving
 <p align="left">
-<img src="https://img.shields.io/badge/React-6DB33F?style=for-the-badge&logo=react&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="Descrição da Imagem"/>
-<img src="https://img.shields.io/badge/R-6DB33F?style=for-the-badge&logo=r&logoColor=white" alt="Descrição da Imagem"/>
+  <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=python&logoColor=white" alt="Descrição da Imagem"/>
 </p>
 
 ## 🛠️ Tools
@@ -25,8 +24,8 @@
 <img src="https://img.shields.io/badge/JavaScript-092E20?style=for-the-badge&logo=javascript&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/C-092E20?style=for-the-badge&logo=c&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/Java-092E20?style=for-the-badge&logo=java&logoColor=white" alt="Descrição da Imagem"/>
-  <img src="https://img.shields.io/badge/MySQL-092E20?style=for-the-badge&logo=mysql&logoColor=white" alt="Descrição da Imagem"/>
-<img src="https://img.shields.io/badge/R-092E20?style=for-the-badge&logo=r&logoColor=white" alt="Descrição da Imagem"/>
+<img src="https://img.shields.io/badge/MySQL-092E20?style=for-the-badge&logo=mysql&logoColor=white" alt="Descrição da Imagem"/>
+<img src="https://img.shields.io/badge/MySQL-092E20?style=for-the-badge&logo=mysql&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/Bootstrap-092E20?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Descrição da Imagem"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-092E20?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Descrição da Imagem"/>
