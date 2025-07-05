@@ -1,9 +1,7 @@
 ## 👥 Find me in
 <p align="left">
 <a href="https://www.linkedin.com/in/bernardo-heuer-45571334b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5581973019009&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Bernardo" height="30" width="40" /></a>
-</p>
-
+  
 # About me 💬
 <p><strong>Student of Computer Science at CESAR School.</strong></p>
 <p><strong>Passionate about Data Science, AI, DevOps, Software Development, Cybersecurity and more</strong></p>
