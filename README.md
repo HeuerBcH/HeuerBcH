@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/hd7mnL3.png" alt="Cyberpunk Banner"/>
+<img width="100%" src="bannercapa.png" alt="Banner inicial" />
 
 ---
 
