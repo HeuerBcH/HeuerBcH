@@ -78,6 +78,3 @@ print(TerminalDeInicio())
 
 ---
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&width=435&lines=print('Bem-vindo(a)+ao+meu+perfil!');Explorando+novas+tecnologias...;Sempre+codando+com+neon+e+energia+cyberpunk!;"/> </p>
-
-
