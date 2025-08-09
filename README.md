@@ -1,7 +1,3 @@
-<img width="100%" src="bannercapa.png" alt="Banner inicial" />
-
----
-
 <p> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=2EFE2E&width=500&lines=print('Bem-vindo(a)+ao+meu+perfil!');Explorando+novas+tecnologias...;"/> 
 </p>
@@ -45,7 +41,7 @@ print(TerminalDeInicio())
 
 ---
 
-## 💻 | Meu Arsenal
+## 💻 | Minhas Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-FF0077?style=for-the-badge&logo=java&logoColor=white"/>
@@ -59,14 +55,6 @@ print(TerminalDeInicio())
   <img src="https://img.shields.io/badge/Excel-00FF00?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerPoint-FF0066?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Word-5F00FF?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-</p>
-
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HeuerBcH&show_icons=true&theme=radical&hide_border=true"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeuerBcH&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
