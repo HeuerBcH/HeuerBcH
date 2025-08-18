@@ -6,8 +6,6 @@
 ```python
 # 👾 Bernardo Heuer 👾
 # 💾 Ciência da Computação @ CESAR School
-# 🧠 Entusiasta de Cloud, DevOps e Dados
-# ⚡ Inspirado por desafios e movido por tecnologia
 
 class TerminalDeInicio:
     def __init__(self):
