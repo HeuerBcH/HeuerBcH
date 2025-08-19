@@ -42,18 +42,19 @@ print(TerminalDeInicio())
 ## 💻 | Minhas Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-FF0077?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00D9FF?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-5F00FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00FFDD?style=for-the-badge&logo=mysql&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-FF00AA?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FF00AA?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0050FF?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-00FF00?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PowerPoint-FF0066?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-5F00FF?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
+
 
 ---
 
