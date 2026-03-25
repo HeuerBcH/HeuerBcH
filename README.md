@@ -1,22 +1,17 @@
 <p> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=2EFE2E&width=500&lines=print('Bem-vindo(a)+ao+meu+perfil!');Explorando+novas+tecnologias...;"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=2EFE2E&width=500&lines=print('Bem-vindo');Explorando+novas+tecnologias...;"/> 
 </p>
 
 
 ```python
-# 👾 Bernardo Heuer 👾
-# 💾 Ciência da Computação @ CESAR School
+# Bernardo Heuer
+# Ciência da Computação @ CESAR School
 
 class TerminalDeInicio:
     def __init__(self):
         self.nome = "bernardo_heuer"
         self.curso = "Ciência da Computação"
         self.instituicao = "CESAR School"
-        self.objetivo = (
-            "Conquistar uma vaga de estágio para aplicar conhecimentos práticos "
-            "em ambientes reais de tecnologia."
-        )
-        self.status = "⚙️ Em constante construção. Pronto para novos desafios."
 
     def __str__(self):
         return f"{self.nome} | {self.status}"
