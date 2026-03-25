@@ -19,19 +19,11 @@ class TerminalDeInicio:
 # status do desenvolvedor
 print(TerminalDeInicio())
 ```
-
-## | Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,r,aws,azure,java,spring,git,docker,linux,js,react" />
-</p>
-
 ---
 
-## | Fale Comigo!
+## Tecnologias
 <p align="center">
-  <a href="https://linkedin.com/in/bernardo-heuer-45571334b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,r,aws,azure,java,spring,git,docker,linux,js,react" />
 </p>
 
 ---
