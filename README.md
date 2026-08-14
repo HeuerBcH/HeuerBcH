@@ -1,7 +1,12 @@
-<p> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=2EFE2E&width=500&lines=print('Bem-vindo');Em progresso...;"/> 
+<p align="center">
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,20:d000ff,40:7b2cff,60:4361ee,80:00b4d8,100:00f5d4&height=300&section=header&animation=fadeIn"
+    width="100%"
+  />
+  
 </p>
 
+<p align="center">
 
 ```python
 # Bernardo Heuer
@@ -11,7 +16,6 @@ class TerminalDeInicio:
     def __init__(self):
         self.nome = "bernardo_heuer"
         self.curso = "Ciência da Computação"
-        self.instituicao = "CESAR School"
 
     def __str__(self):
         return f"{self.nome} | {self.status}"
@@ -29,8 +33,15 @@ print(TerminalDeInicio())
 ---
 
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeuerBcH&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true"/>
+
+  </p>
+  
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,20:d000ff,40:7b2cff,60:4361ee,80:00b4d8,100:00f5d4&height=180&section=footer"
+    width="100%"
+  />
 </p>
 
 ---
