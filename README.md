@@ -23,7 +23,7 @@ print(TerminalDeInicio())
 
 ## Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,aws,gcp,javascript,react,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,aws,gcp,javascript,typescript,react,git,docker,linux" />
 </p>
 
 ---
