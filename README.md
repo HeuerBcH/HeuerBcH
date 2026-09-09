@@ -5,24 +5,27 @@
   />
 </p>
 
+---
 ## About Me
 <p>🌱 Computer Science Undergraduate @ CESAR School</p>
 <p>💬 Ask me About: Software Engineering, Cloud Computing, AI</p>
 
 
 ## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,aws,gcp,javascript,typescript,nextjs,nodejs,react,git,docker,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,aws,gcp,javascript,typescript,nodejs,react,git,docker,linux" />
 </p>
 
 ## Currently Developing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,javascript,typescript,nextjs,nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,nextjs,nodejs" />
 </p>
 
 ## Contact me
 <p>💼 LinkedIn: https://www.linkedin.com/in/bernardo-heuer-45571334b/</p>
 <p>📧 E-mail: bernardoheuer2005@gmail.com</p>
+
+---
 
 <p align="center">
   <img
